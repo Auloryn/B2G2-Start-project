@@ -14,3 +14,22 @@ p{
     text-align: center;
     color: burlywood;
 }
+
+.toi__txt{
+    height: fit-content;
+    font-size: 60px;
+    font-weight: 600;
+    margin-top: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+
+.bg{
+    display: flex;
+}
+.bg__txt{
+    font-size: 90px;
+    margin-right: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: bisque;
+}
